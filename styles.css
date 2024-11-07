@@ -1,7 +1,8 @@
 body {
     color:white;
     background:black;
-    margin: 0px
+    margin: 0px;
+    font-family: "Mona Sans", sans-serif;
 }
 
 header {
@@ -17,5 +18,18 @@ section {
     padding-top: 80px;
     display: flex;
     justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+
 }
 
